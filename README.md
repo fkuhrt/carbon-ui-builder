@@ -5,9 +5,9 @@ build product pages in a fraction of time that it normally take.
 
 Export in seconds as
 
-* image for presentations
-* live demo app for user testing or
-* production quality code
+-   image for presentations
+-   live demo app for user testing or
+-   production quality code
 
 and incorporate in the existing product frontend.
 
@@ -42,6 +42,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.
 
 You will also see any lint errors in the console.
+
+### `npm config delete proxy`
+
+### `npm config delete https-proxy`
+
+If you get TIMEOUT ERR during `npm install` then try the following commands:
 
 ### `npm test`
 
