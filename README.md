@@ -5,9 +5,9 @@ build product pages in a fraction of time that it normally take.
 
 Export in seconds as
 
-* image for presentations
-* live demo app for user testing or
-* production quality code
+-   image for presentations
+-   live demo app for user testing or
+-   production quality code
 
 and incorporate in the existing product frontend.
 
