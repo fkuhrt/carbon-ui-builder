@@ -43,12 +43,6 @@ The page will reload if you make edits.
 
 You will also see any lint errors in the console.
 
-### `npm config delete proxy`
-
-### `npm config delete https-proxy`
-
-If you get TIMEOUT ERR during `npm install` then try the following commands:
-
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.
